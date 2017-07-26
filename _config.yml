@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "R Programming for Alien and Monster Scientists"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: alien@iss.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
